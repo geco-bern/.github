@@ -35,10 +35,13 @@ Visit our group website at https://geco-group.org/.
 - [A handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
 - [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices
-- Tutorials
+- <details><summary>Tutorials</summary>
+  
   - [Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - an introduction to digital soil mapping
   - [Leaf Temperature Modelling](https://padasch.github.io/leaf_energy_balance_tutorial/) - an introduction to modelling a leaf's energy balance
   - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
+  
+</details> 
     
 ## Lab Info :house:
 
@@ -49,12 +52,16 @@ Visit our group website at https://geco-group.org/.
 
 ## Publication/Conference repositories :pencil:
 - [GECO media](https://github.com/geco-bern/GECO_media) - GECO media material - posters, presentations, visualizations :book:
-- [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/geco-bern/fET) - Giardina et al. *submitted*
-- [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/geco-bern/fvar) - Stocker et al. 2018 *New Phytologist*
-- [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/geco-bern/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
-- [Grow Fast Die Young hypothesis](https://github.com/geco-bern/GFDY) - Marqués et al. 2022 *submitted*
-- [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
-- [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
+- <details><summary>Publications</summary>
+  
+  - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/geco-bern/fET) - Giardina et al. *submitted*
+  - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/geco-bern/fvar) - Stocker et al. 2018 *New Phytologist*
+  - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/geco-bern/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
+  - [Grow Fast Die Young hypothesis](https://github.com/geco-bern/GFDY) - Marqués et al. 2022 *submitted*
+  - [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
+  - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
+
+</details> 
 
 **Please note: :pray:**
 
