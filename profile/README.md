@@ -67,6 +67,12 @@ Visit our group website at https://geco-group.org/.
 
 ----
 
-**Please note: :pray:**
+<details><summary><b>Collaboration & code-of-conduct policy</b></summary>
+  
+The authors of these packages are open to collaborate. Where substantial intellectual inputs are provided by us, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our YouTube channel, and related published papers. For remaining questions, please raise an issue on Github (in the respective repository). Of course, for such types of support and issue resolution, we do not expect co-authorships. Fair acknowledgements and properly cited software and literature is appreciated. Thank you.  
 
-The authors of these packages are open to collaborate. Where substantial intellectual inputs are provided by us, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our YouTube channel, and related published papers. For remaining questions, please raise an issue on Github (in the respective repository). Of course, for such types of support and issue resolution, we do not expect co-authorships. Fair acknowledgements and properly cited software and literature is appreciated. Thank you.
+</details> 
+
+
+
+
