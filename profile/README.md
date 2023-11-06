@@ -23,6 +23,7 @@ Visit our group website at https://geco-group.org/.
 
 - [mlflx2](https://github.com/geco-bern/mlflx2) - LSTM and DNN models for FLUXNET GPP modelling
 - [forest drought forecasting](https://github.com/geco-bern/forest_drought_forecasting) - leveraging minicubes to forecast forest drought events
+- [vegetation drought response forecasting](https://github.com/geco-bern/satellite_image_forecasting) - forecasting the response of drought events on vegeation using ConvLSTM models
 
 ## Courses 🧑‍🎓
 - [Applied Geodata Science I](https://geco-bern.github.io/agds1_course/) - an introduction to applied geodata science
