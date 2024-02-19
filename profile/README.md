@@ -44,6 +44,7 @@ Visit our group website at https://geco-group.org/.
     
 ## Lab Info :house:
 
+- [geco_code_of_conduct](https://github.com/geco-bern/geco_code_of_conduct) - mission, principles, and logistics for the group
 - [data management](https://github.com/geco-bern/data_management) - data storage and management for research computing :lock:
 - [system administration](https://github.com/geco-bern/system_administration) - software installation and howtos :lock:
 - [lab infrastructure](https://github.com/geco-bern/lab_infrastructure) - details on lab equipment (what/where) :lock:
