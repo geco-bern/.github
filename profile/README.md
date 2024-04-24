@@ -12,12 +12,13 @@ Visit our group website at https://geco-group.org/.
 - [rpmodel](https://github.com/geco-bern/rpmodel) -  An R implementation of the P-model - ![](https://cranlogs.r-pkg.org/badges/grand-total/rpmodel) ![](https://www.r-pkg.org/badges/version/rpmodel)
 - [GECOr](https://github.com/geco-bern/GECOr) - Internal R package for model development support, visualization and data wrangling ( :boom: experimental :boom: )
 
-## Data processing :floppy_disk:
+## Data :floppy_disk:
 
 - [FluxDataKit](https://github.com/geco-bern/FluxDataKit) - Workflow to convert FLUXNET data to Land Surface Model formats
 - [FluxnetEO](https://github.com/geco-bern/FluxnetEO) - Access and convert FluxnetEO data in R
 - [ingestr](https://github.com/geco-bern/ingestr) - Experimental package for data ingestion
 - [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion (geospatial Earth Observation and climate data) and functionalities.
+- [leafnp_data](https://github.com/geco-bern/leafnp_data) - Leaf N, P, and N:P data by Tian et al. (2019), complemented with environmental covariates. Contains the data and code for generating it.
 
 ## Machine learning
 
