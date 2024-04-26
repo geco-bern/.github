@@ -62,7 +62,7 @@ Visit our group website at https://geco-group.org/.
   - [Grow Fast Die Young hypothesis](https://github.com/geco-bern/GFDY) - Marqués et al. 2022 *submitted*
   - [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
   - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
-  - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al. (2024)
+  - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al. (*in review*). DOI: https://doi.org/10.5281/zenodo.11071816
 
 </details> 
 
