@@ -18,7 +18,7 @@ Visit our group website at https://geco-group.org/.
 - [FluxnetEO](https://github.com/geco-bern/FluxnetEO) - Access and convert FluxnetEO data in R
 - [ingestr](https://github.com/geco-bern/ingestr) - Experimental package for data ingestion
 - [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion (geospatial Earth Observation and climate data) and functionalities.
-- [leafnp_data](https://github.com/geco-bern/leafnp_data) - Leaf N, P, and N:P data by Tian et al. (2019), complemented with environmental covariates. Contains the data and code for generating it.
+- [leafnp_data](https://github.com/geco-bern/leafnp_data) - Leaf N, P, and N:P data by Tian et al. (2019), complemented with environmental covariates. Contains the data and code for generating it. DOI: https://doi.org/10.5281/zenodo.11071944
 
 ## Machine learning
 
