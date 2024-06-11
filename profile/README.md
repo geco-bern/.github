@@ -10,6 +10,7 @@ Visit our group website at https://geco-group.org/.
 
 - [rsofun](https://github.com/geco-bern/rsofun) - An R package for dynamic vegetation modelling -  ![](https://cranlogs.r-pkg.org/badges/grand-total/rsofun) ![](https://www.r-pkg.org/badges/version/rsofun)
 - [rpmodel](https://github.com/geco-bern/rpmodel) -  An R implementation of the P-model - ![](https://cranlogs.r-pkg.org/badges/grand-total/rpmodel) ![](https://www.r-pkg.org/badges/version/rpmodel)
+- [grsofun](https://github.com/geco-bern/grsofun) - A wrapper of {rsofun} for global model simulations.
 - [GECOr](https://github.com/geco-bern/GECOr) - Internal R package for model development support, visualization and data wrangling ( :boom: experimental :boom: )
 
 ## Data :floppy_disk:
