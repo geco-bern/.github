@@ -28,6 +28,7 @@ Visit our group website at https://geco-group.org/.
 - [vegetation drought response forecasting](https://github.com/geco-bern/satellite_image_forecasting) - forecasting the response of drought events on vegeation using ConvLSTM models
 
 ## Courses 🧑‍🎓
+- [Land in the Earth System](https://geco-bern.github.io/les/) - introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics.
 - [Applied Geodata Science I](https://geco-bern.github.io/agds1_course/) - an introduction to applied geodata science
 - [Applied Geodata Science II](https://geco-bern.github.io/agds2_course/) - an overview of real-world geodata science applications
 - [Applied Geodata Science Proseminar](https://geco-bern.github.io/agds_proseminar/) - an introduction to start your own applied geodata science project
