@@ -32,10 +32,11 @@ Visit our group website at https://geco-group.org/.
 - [Land in the Earth System](https://geco-bern.github.io/les/) - introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics.
 - [Applied Geodata Science](https://geco-bern.github.io/agds/) - an introduction to data science in R
 - [A handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
-- [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
-- [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices 
 - [Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - an introduction to digital soil mapping
 - [Leaf Temperature Modelling](https://padasch.github.io/leaf_energy_balance_tutorial/) - an introduction to modelling a leaf's energy balance
+- [Machine learning for Eddy Covariance data](https://github.com/geco-bern/ml4ec_workshop/) - a tutorial for data-driven ecosystem photosynthesis modelling
+- [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
+- [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices 
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
 
 ## Courses 🧑‍🎓
