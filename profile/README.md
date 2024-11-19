@@ -30,7 +30,7 @@ Visit our group website at https://geco-group.org/.
 ## Teaching Material, Tutorials, and Workflows 📚
 
 - [Land in the Earth System](https://geco-bern.github.io/les/) - introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics.
-- [Applied Geodata Science](https://geco-bern.github.io/agds/) - an introduction to data science in R
+- [Applied Geodata Science](https://geco-bern.github.io/agds_book/) - an introduction to data science in R
 - [A handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
 - [Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - an introduction to digital soil mapping
 - [Leaf Temperature Modelling](https://padasch.github.io/leaf_energy_balance_tutorial/) - an introduction to modelling a leaf's energy balance
