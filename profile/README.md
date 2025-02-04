@@ -38,6 +38,7 @@ Visit our group website at https://geco-group.org/.
 - [R project template](https://github.com/geco-bern/R_proj_template) - a basic R template to populate project directories
 - [R code tools](https://github.com/geco-bern/R_code_tools) - a selection of commonly used development tools and practices 
 - [Youtube channel with tutorials](https://www.youtube.com/@geco-group) - a video tutorial channel for the tools listed here :movie_camera:
+- [rsofun demos](https://geco-bern.github.io/rsofundemo/articles/pmodel_fluxnet.html) - demonstrates typical use cases of the rsofun model, beyond simple use cases described on the [rsofun website](https://geco-bern.github.io/rsofun/).
 
 ## Courses 🧑‍🎓
 
