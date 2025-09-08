@@ -47,9 +47,7 @@ Visit our group website at https://geco-group.org/.
 - [Applied Geodata Science I](https://geco-bern.github.io/agds1_course/) - an introduction to applied geodata science
 - [Applied Geodata Science II](https://geco-bern.github.io/agds2_course/) - an overview of real-world geodata science applications
 - [Applied Geodata Science Proseminar](https://geco-bern.github.io/agds_proseminar/) - an introduction to start your own applied geodata science project
-  
-</details> 
-    
+      
 ## Lab Info :house:
 
 - [geco_code_of_conduct](https://github.com/geco-bern/geco_code_of_conduct) - mission, principles, and logistics for the group
@@ -61,8 +59,7 @@ Visit our group website at https://geco-group.org/.
 ## Publications and theses :pencil:
 - [GECO media](https://github.com/geco-bern/GECO_media) - GECO media material - posters, presentations, visualizations :book:
 
-<details><summary>Publications</summary>
-  
+### Publications  
   - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/geco-bern/fET) - Giardina et al. *submitted*
   - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/geco-bern/fvar) - Stocker et al. 2018 *New Phytologist*
   - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/geco-bern/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
@@ -72,19 +69,13 @@ Visit our group website at https://geco-group.org/.
   - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al., 2024 *Nature Communications*
   - [Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions](https://github.com/geco-bern/lt_cn_review) - Stocker et al. (*accepted*) *New Phytologist*
 
-<details><summary>Theses</summary>
-
-  - [Drivers of actual evapotranspiration surplus in arid and semi-arid regions](https://github.com/geco-bern/flx_wb2) - BSc thesis of Anna Grossmann (Budyko-based analysis of patterns in AET/P across eddy covariance sites)
-
-</details> 
+### Theses
+  - [Budyko-based analysis of patterns in AET/P across eddy covariance sites](https://github.com/geco-bern/flx_wb2) - BSc thesis of Anna Grossmann
+  - [Droughts in the last millennium](https://github.com/geco-bern/lastmill_droughts) - MSc thesis of Patricia Helpap
 
 ----
+> **Code use and collaboration policy** The authors of these packages are open to collaborate. Where substantial intellectual inputs are provided by us, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our YouTube channel, and related published papers. For remaining questions, please raise an issue on Github (in the respective repository). Of course, for such types of support and issue resolution, we do not expect co-authorships. Fair acknowledgements and properly cited software and literature is appreciated. Thank you. More details are provided in the [GECO code of conduct / mission statement](https://github.com/geco-bern/geco_code).   
 
-<details><summary><b>Collaboration & code-of-conduct</b></summary>
-  
-The authors of these packages are open to collaborate. Where substantial intellectual inputs are provided by us, we ask for credit. Intellectual input can take the form of (but is not limited to) custom code, data manipulation, or methodological advice (including experimental design). The form of credit is to be determined in mutual agreement, considering contributions, and may include the authorship on manuscripts or on other research products resulting from respective work. For simple questions regarding the functioning of our open source software, please refer first to the extensive documentation on respective websites (see links above), our YouTube channel, and related published papers. For remaining questions, please raise an issue on Github (in the respective repository). Of course, for such types of support and issue resolution, we do not expect co-authorships. Fair acknowledgements and properly cited software and literature is appreciated. Thank you. More details are provided in the [GECO code of conduct / mission statement](https://github.com/geco-bern/geco_code).   
-
-</details> 
 
 
 
