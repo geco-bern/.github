@@ -58,7 +58,7 @@ Visit our group website at https://geco-group.org/.
 - [lab infrastructure](https://github.com/geco-bern/lab_infrastructure) - details on lab equipment (what/where) :lock:
 - [teaching materials](https://github.com/geco-bern/teaching_materials) - teaching materials for internal use :lock:
 
-## Publication/Conference repositories :pencil:
+## Publications and theses :pencil:
 - [GECO media](https://github.com/geco-bern/GECO_media) - GECO media material - posters, presentations, visualizations :book:
 
 <details><summary>Publications</summary>
@@ -71,6 +71,10 @@ Visit our group website at https://geco-group.org/.
   - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
   - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al., 2024 *Nature Communications*
   - [Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions](https://github.com/geco-bern/lt_cn_review) - Stocker et al. (*accepted*) *New Phytologist*
+
+<details><summary>Theses</summary>
+
+  - [Drivers of actual evapotranspiration surplus in arid and semi-arid regions](https://github.com/geco-bern/flx_wb2) - BSc thesis of Anna Grossmann (Budyko-based analysis of patterns in AET/P across eddy covariance sites)
 
 </details> 
 
