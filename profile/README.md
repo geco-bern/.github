@@ -19,7 +19,7 @@ Visit our group website at https://geco-group.org/.
 - [FluxnetEO](https://github.com/geco-bern/FluxnetEO) - Access and convert FluxnetEO data in R
 - [ingestr](https://github.com/geco-bern/ingestr) - Experimental package for data ingestion
 - [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion (geospatial Earth Observation and climate data) and functionalities.
-- [leafnp_data](https://github.com/geco-bern/leafnp_data) - Leaf N, P, and N:P data by Tian et al. (2019), complemented with environmental covariates. Contains the data and code for generating it. DOI: https://doi.org/10.5281/zenodo.11071944
+- [leafnp_data](https://github.com/geco-bern/leafnp_data) - Leaf N, P, and N:P data by Tian et al. (2024), complemented with environmental covariates. Contains the data and code for generating it. DOI: https://doi.org/10.5281/zenodo.11071944
 
 ## Machine learning
 
@@ -58,19 +58,22 @@ Visit our group website at https://geco-group.org/.
 - [GECO media](https://github.com/geco-bern/GECO_media) - teaching materials for public use
   
 ## Publications and theses :pencil:
+
 - [GECO media](https://github.com/geco-bern/GECO_media) - GECO media material - posters, presentations, visualizations :book:
 
 ### Publications  
-  - [Plant access to belowground moisture allows sustained evapotranspiration during drought](https://github.com/geco-bern/fET) - Giardina et al. *submitted*
-  - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/geco-bern/fvar) - Stocker et al. 2018 *New Phytologist*
-  - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/geco-bern/phenoEOS) - Marqués et al. 2022 *Nature Ecology & Evolution*
-  - [Grow Fast Die Young hypothesis](https://github.com/geco-bern/GFDY) - Marqués et al. 2022 *submitted*
+
+  - [Diagnosing evapotranspiration responses to water deficit across biomes using deep learning](https://github.com/geco-bern/fET) - Giardina et al., 2023 *New Phytologist*
+  - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/geco-bern/fvar) - Stocker et al., 2018 *New Phytologist*
+  - [Acclimation of phenology relieves leaf longevity constraints in deciduous forests](https://github.com/geco-bern/phenoEOS) - Marqués et al., 2023 *Nature Ecology & Evolution*
+  - [Tree Growth Enhancement Drives a Persistent Biomass Gain in Unmanaged Temperate Forests](https://github.com/geco-bern/GFDY) - Marqués et al. 2023 *AGU Advances*
   - [Rooting zone water storage capacity](https://doi.org/10.5281/zenodo.7429129) - Stocker et al., 2023 *Nature Geoscience*
   - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
   - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al., 2024 *Nature Communications*
-  - [Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions](https://github.com/geco-bern/lt_cn_review) - Stocker et al. (*accepted*) *New Phytologist*
+  - [Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions](https://github.com/geco-bern/lt_cn_review) - Stocker et al., 2025 *New Phytologist*
 
 ### Theses
+
   - [Budyko-based analysis of patterns in AET/P across eddy covariance sites](https://github.com/geco-bern/flx_wb2) - BSc thesis of Anna Grossmann
   - [Droughts in the last millennium](https://github.com/geco-bern/lastmill_droughts) - MSc thesis of Patricia Helpap
 
