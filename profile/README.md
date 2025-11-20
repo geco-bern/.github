@@ -61,7 +61,7 @@ Visit our group website at https://geco-group.org/.
 
 - [GECO media](https://github.com/geco-bern/GECO_media) - GECO media material - posters, presentations, visualizations :book:
 
-### Publications  
+### Analysis code for publications  
 
   - [Diagnosing evapotranspiration responses to water deficit across biomes using deep learning](https://github.com/geco-bern/fET) - Giardina et al., 2023 *New Phytologist*
   - [Quantifying soil moisture impacts on light use efficiency across biomes](https://github.com/geco-bern/fvar) - Stocker et al., 2018 *New Phytologist*
@@ -72,7 +72,7 @@ Visit our group website at https://geco-group.org/.
   - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al., 2024 *Nature Communications*
   - [Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions](https://github.com/geco-bern/lt_cn_review) - Stocker et al., 2025 *New Phytologist*
 
-### Theses
+### Analysis code for theses
 
   - [Budyko-based analysis of patterns in AET/P across eddy covariance sites](https://github.com/geco-bern/flx_wb2) - BSc thesis of Anna Grossmann
   - [Droughts in the last millennium](https://github.com/geco-bern/lastmill_droughts) - MSc thesis of Patricia Helpap
