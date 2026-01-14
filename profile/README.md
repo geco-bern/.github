@@ -54,8 +54,7 @@ Visit our group website at https://geco-group.org/.
 - [data management](https://github.com/geco-bern/data_management) - data storage and management for research computing :lock:
 - [system administration](https://github.com/geco-bern/system_administration) - software installation and howtos :lock:
 - [lab infrastructure](https://github.com/geco-bern/lab_infrastructure) - details on lab equipment (what/where) :lock:
-- [teaching materials](https://github.com/geco-bern/teaching_materials_private) - teaching materials for internal use :lock:
-- [GECO media](https://github.com/geco-bern/GECO_media) - teaching materials for public use
+- [GECO media](https://github.com/geco-bern/GECO_media) - teaching materials
   
 ## Publications and theses :pencil:
 
