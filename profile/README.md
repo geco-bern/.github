@@ -7,7 +7,7 @@ We are committed to an Open Science practice. We’re building an environment of
 Visit our group website at https://geco-group.org/.
 
 ## Vegetation modelling :deciduous_tree:
-
+- Bern drought monitor hosted at https://geco-bern.github.io/drought_switzerland_blog/
 - [rsofun](https://github.com/geco-bern/rsofun) - An R package for dynamic vegetation modelling -  ![](https://cranlogs.r-pkg.org/badges/grand-total/rsofun) ![](https://www.r-pkg.org/badges/version/rsofun)
 - [rpmodel](https://github.com/geco-bern/rpmodel) -  An R implementation of the P-model - ![](https://cranlogs.r-pkg.org/badges/grand-total/rpmodel) ![](https://www.r-pkg.org/badges/version/rpmodel)
 - [grsofun](https://github.com/geco-bern/grsofun) - A wrapper of {rsofun} for global model simulations.
