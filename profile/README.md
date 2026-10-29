@@ -20,6 +20,7 @@ Visit our group website at https://geco-group.org/.
 - [ingestr](https://github.com/geco-bern/ingestr) - Experimental package for data ingestion
 - [earthnet-minicuber](https://github.com/geco-bern/earthnet-minicuber) - A fork from [earthnet2021](https://github.com/earthnet2021), complemented by additional data source ingestion (geospatial Earth Observation and climate data) and functionalities.
 - [leafnp_data](https://github.com/geco-bern/leafnp_data) - Leaf N, P, and N:P data by Tian et al. (2024), complemented with environmental covariates. Contains the data and code for generating it. DOI: https://doi.org/10.5281/zenodo.11071944
+- [natural_LAI_FPAR](https://zenodo.org/records/23690909) - Monthly global LAI and FAPAR at 0.25° resolution for 1982–2024 with mapped managed areas excluded.
 
 ## Machine learning
 
@@ -29,7 +30,7 @@ Visit our group website at https://geco-group.org/.
 
 ## Teaching Material, Tutorials, and Workflows 📚
 
-- [Land in the Earth System](https://geco-bern.github.io/les/) - introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics.
+- [Land in the Earth System I and II](https://geco-bern.github.io/les/) - introducing global patterns, processes, and underlying principles for how climate shapes the terrestrial biosphere and how land feeds back to Earth system dynamics.
 - [Applied Geodata Science](https://geco-bern.github.io/agds_book/) - an introduction to data science in R
 - [A handful of Pixels](https://geco-bern.github.io/handfull_of_pixels/) - an introduction into geocomputation in R
 - [Digital Soil Mapping](https://geco-bern.github.io/tutorial_digital_soil_mapping/) - an introduction to digital soil mapping
@@ -43,7 +44,7 @@ Visit our group website at https://geco-group.org/.
 
 ## Courses 🧑‍🎓
 
-- [Land in the Earth System II]([https://geco-bern.github.io/les/](https://geco-bern.github.io/les2_course/) - introducing how the terrestrial biosphere and land processes interact with climate change
+- [Land in the Earth System II](https://geco-bern.github.io/les2_course/) - introducing how the terrestrial biosphere and land processes interact with climate change
 - [Applied Geodata Science I](https://geco-bern.github.io/agds1_course/) - an introduction to applied geodata science
 - [Applied Geodata Science II](https://geco-bern.github.io/agds2_course/) - an overview of real-world geodata science applications
 - [Applied Geodata Science Proseminar](https://geco-bern.github.io/agds_proseminar/) - an introduction to start your own applied geodata science project
@@ -70,6 +71,7 @@ Visit our group website at https://geco-group.org/.
   - [Cumulative water deficit algorithm](https://github.com/geco-bern/cwd) - Stocker et al., 2023 *Nature Geoscience*
   - [Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations of terrestrial plants](https://github.com/geco-bern/leafnp) - Tian et al., 2024 *Nature Communications*
   - [Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions](https://github.com/geco-bern/lt_cn_review) - Stocker et al., 2025 *New Phytologist*
+  - [Separating Land Use and Environmental Signals in Satellite-Derived Global Greening Trends](https://github.com/geco-bern/global-lai-fapar-masking) - Kurth et al., *in prep*
 
 ### Analysis code for theses
 
